@@ -3,7 +3,10 @@
 > **JFLAP の Web 版を目指す DFA/NFA エディタ + シミュレータ**。
 > オートマトン理論・コンパイラ授業の学生向け。Mermaid テキスト出力で図を Markdown / Obsidian / Notion にそのまま貼れる。
 
+🚀 **[Live Demo →](https://automatalab-kappa.vercel.app)**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/demo-vercel-black.svg)](https://automatalab-kappa.vercel.app)
 
 ---
 
@@ -61,7 +64,7 @@ npm run preview   # build を確認
 
 ## 関連プロダクト
 
-- **[MermaidMaker](https://github.com/akitaroh/mermaid-maker)** — AutomataLab の土台になっている汎用 Mermaid エディタ
+- **[MermaidMaker](https://github.com/akitaroh/mermaid-maker)** ([Live](https://mermaid-maker.vercel.app)) — AutomataLab の土台になっている汎用 Mermaid エディタ
 
 ## 設計メソドロジー
 
